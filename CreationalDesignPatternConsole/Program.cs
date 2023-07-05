@@ -43,7 +43,7 @@ class Example
 }
 
 /*Burada Singleton Design Pattern kullanmak için ve yazılımcıya zorunlu kılmak için nesne oluşturma işini
-new işlevine bırakmıyoruz ve bu işlevi static bir method sayesinde gerçekleştiriyoruz.*/
+new işlevine bırakmıyoruz ve bu işlevi static bir method sayesinde gerçekleştiriyoruz..*/
 
 /*Bu işlevi static Example etInstance methodu sayesinde eğer ki Example nesnesi oluşmamışsa oluşturuyo eğer
 ki nesne hali hazırda varsa direkt onu return ediyor. Bunun içinde static bir şekilde tanımlıyoruz yukarda.*/
